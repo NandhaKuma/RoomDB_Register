@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Task RoomDB</string>
+    <string name="login">Login</string>
+    <string name="email">Your Email</string>
+    <string name="password">Password</string>
+    <string name="email_hint">Enter an email address</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="password_hint">Enter password</string>
+    <string name="sign_in_your_account">Sign in your account</string>
+    <string name="dont_have_account_create_new">Don\'t have an Account? Create Account</string>
+    <string name="register">Register</string>
+    <string name="create_your_account">Create your account</string>
+    <string name="your_name">Your Name</string>
+    <string name="already_have_account_login">Already have an Account? Login</string>
+
+    <string name="email_should_not_be_empty">Email should not be empty!</string>
+    <string name="name_should_not_be_empty">Name should not be empty!</string>
+    <string name="enter_valid_email_address">Enter valid email address!</string>
+    <string name="password_should_not_be_empty">Password should not be empty!</string>
+    <string name="password_should_be_minimum">Password length should be minimum 8 letter!</string>
+    <string name="register_successfully">Register Successfully</string>
+    <string name="login_successfully">Login Successfully</string>
+    <string name="please_register">Please register</string>
+    <string name="invalied_email_password">Invalid email and password</string>
+    <string name="email_already_register">Email Already Register</string>
+    <string name="profile">Profile</string>
+
+
+</resources>
